@@ -20,7 +20,7 @@ function typeLine() {
       }
     }
     typeLine()
-  }, getRandomInt(getRandomInt(250*3.5)))
+  }, getRandomInt(getRandomInt(250*0.5)))
 }
 typeLine()
 function getRandomInt(max){
